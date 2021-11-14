@@ -22,7 +22,7 @@ public final class UseCollection {
 
         /*
          * Unless you need to perform specific operations, always use the most
-         * generic interface.
+         * generic interf
          * If we use `var` instead of specifying Collection<Integer> what type
          * will `coll` have?
          */

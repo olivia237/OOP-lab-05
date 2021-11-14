@@ -20,7 +20,7 @@ public final class UseSet {
      */
     public static void main(final String[] args) {
         /*
-         * Considering the content of "UseCollection, write a program which, in
+         * Considering the content  "UseCollection, write a program which, in
          * order:
          * 
          * 1) Builds a TreeSet containing Strings
